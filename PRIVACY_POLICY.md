@@ -2,7 +2,7 @@
 
 **Last updated: March 2026**
 
-FlickPickr ("the app", "we", "us") is operated by Kris McCracken as an individual developer. This policy explains what data we collect, why, and your rights regarding it.
+FlickPickr ("the app", "we", "us") is operated by FlickPickr as an individual developer. This policy explains what data we collect, why, and your rights regarding it.
 
 ---
 
